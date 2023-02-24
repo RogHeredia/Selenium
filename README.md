@@ -1,2 +1,2 @@
 # Selenium
-Automation practice on letcode.in with selenium and Java
+Automation practice with selenium and Java
